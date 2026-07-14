@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="362" viewBox="0 0 980 362">
+<style>
+    .title { font: 700 22px Arial, sans-serif; fill: #17202a; }
+    .subtitle { font: 400 13px Arial, sans-serif; fill: #6b7280; }
+    .axis { stroke: #6b7280; stroke-width: 1; }
+    .grid { stroke: #e8edf5; stroke-width: 1; }
+    .label { font: 12px Arial, sans-serif; fill: #17202a; }
+    .value { font: 700 12px Arial, sans-serif; fill: #17202a; }
+</style>
+<rect width="100%" height="100%" fill="white" rx="18" ry="18"/>
+<text x="28" y="34" class="title">RFM Segment Distribution</text>
+<text x="28" y="56" class="subtitle">Customer counts by lifecycle segment</text>
+<line x1="260" y1="342" x2="930" y2="342" class="axis" /><text x="248" y="110" text-anchor="end" class="label">Champions</text><rect x="260" y="98" width="164.4" height="20" rx="8" fill="#5aa469" opacity="0.88" /><text x="434.4" y="112" class="value">478</text><text x="248" y="152" text-anchor="end" class="label">Loyal Customers</text><rect x="260" y="140" width="193.3" height="20" rx="8" fill="#5aa469" opacity="0.88" /><text x="463.3" y="154" class="value">562</text><text x="248" y="194" text-anchor="end" class="label">Big Spenders</text><rect x="260" y="182" width="80.8" height="20" rx="8" fill="#5aa469" opacity="0.88" /><text x="350.8" y="196" class="value">235</text><text x="248" y="236" text-anchor="end" class="label">At Risk</text><rect x="260" y="224" width="238.0" height="20" rx="8" fill="#5aa469" opacity="0.88" /><text x="508.0" y="238" class="value">692</text><text x="248" y="278" text-anchor="end" class="label">Hibernating</text><rect x="260" y="266" width="598.2" height="20" rx="8" fill="#5aa469" opacity="0.88" /><text x="868.2" y="280" class="value">1,739</text><text x="248" y="320" text-anchor="end" class="label">Promising</text><rect x="260" y="308" width="217.4" height="20" rx="8" fill="#5aa469" opacity="0.88" /><text x="487.4" y="322" class="value">632</text>
+</svg>
