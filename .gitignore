@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+data/*.csv
+!data/.gitkeep
+!data/README.md
+
