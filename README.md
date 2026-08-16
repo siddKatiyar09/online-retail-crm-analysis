@@ -79,7 +79,7 @@ online_retail_crm_project/
 |-- Online_Retail_CRM_Analysis.ipynb
 |-- PORTFOLIO_GUIDE.md
 |-- data/
-| --OnlineRetail.csv
+| --OnlineRetail.rar
 
 |   |-- README.md
 |   |-- customer_segments_simple.csv
