@@ -77,25 +77,13 @@ This project converts raw orders into CRM-ready insights so a business can:
 ```text
 online_retail_crm_project/
 |-- Online_Retail_CRM_Analysis.ipynb
-|-- GITHUB_UPLOAD_GUIDE.md
 |-- PORTFOLIO_GUIDE.md
 |-- data/
 |   |-- README.md
 |-- output/
 |   |-- README.md
-|   |-- analysis_report.html
-|   |-- executive_summary.md
 |   |-- customer_segments_simple.csv
-|   |-- customer_rfm_segments.csv
-|   |-- cluster_profile.csv
-|   |-- kmeans_diagnostics.csv
-|   |-- monthly_revenue.csv
-|   |-- rfm_segment_summary.csv
-|   |-- top_products.csv
-|   |-- figures/
-|-- src/
-|   |-- analyze_online_retail.py
-|   |-- generate_notebook.py
+| 
 |-- .gitignore
 |-- README.md
 |-- requirements.txt
