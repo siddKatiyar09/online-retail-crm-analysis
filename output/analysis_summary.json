@@ -1,9 +1,0 @@
-{
-  "dataset": "OnlineRetail.csv",
-  "clean_revenue": 8911407.9,
-  "clean_customers": 4338,
-  "markets": 37,
-  "uk_revenue_share_pct": 82.01,
-  "top_rfm_segment": "Champions",
-  "top_cluster": "Champions"
-}
