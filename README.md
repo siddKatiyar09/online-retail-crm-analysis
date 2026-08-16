@@ -70,19 +70,7 @@ This project converts raw orders into CRM-ready insights so a business can:
 | Highest-revenue month | `November 2011` |
 | Revenue from Champions | `$6.82M` |
 
-## Project Visuals
 
-### Monthly Revenue
-
-![Monthly revenue trend](output/figures/monthly_revenue.svg)
-
-### RFM Segment Distribution
-
-![RFM segment distribution](output/figures/rfm_segment_counts.svg)
-
-### Customer Value Map
-
-![Customer value map](output/figures/customer_value_map.svg)
 
 ## Repository Structure
 
